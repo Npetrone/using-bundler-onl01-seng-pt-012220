@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+# source "https://rubygems.org"
 require_relative '../config/environment'
 require "Gemfile"
 
