@@ -1,5 +1,5 @@
-# source "https://rubygems.org"
-require_relative '../bin/run.rb'
+source "https://rubygems.org"
+
 
 gem 'hashie'
 gem "sinatra",'1.4.4'
