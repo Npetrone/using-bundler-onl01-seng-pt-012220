@@ -99,6 +99,6 @@ describe "Bundler" do
 
     # it "should make the bundler gems available in bin/run.rb" do
     #   expect { require_relative "../bin/run.rb" }.not_to raise_error
-    end
+    # end
   end
 end
