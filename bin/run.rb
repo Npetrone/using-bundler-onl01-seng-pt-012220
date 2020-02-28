@@ -1,6 +1,11 @@
 source "https://rubygems.org"
-
 require_relative '../config/environment'
+require "Gemfile"
+
+
+
+
+
 # require_relative '../bin/run.rb'
 
 # bundle install
